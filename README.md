@@ -1,7 +1,7 @@
 # afg-choice
 Fast AFG FB accounts  cloning commands
 
- Commands 
+👇 Commands 👇
 
 🔗 apt update
 
